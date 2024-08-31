@@ -1,6 +1,6 @@
 # arm-cortx-m
 
-#inpyjama content
+#inpyjama content.
 
 ARM - Acorn risc machine, later, Advanced Risc Machine
 A R M -- adnvaced(application), realtime, microcontroller core.
